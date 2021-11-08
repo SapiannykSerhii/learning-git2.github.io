@@ -1,0 +1,7 @@
+Stosowanie autoprefixer:
+autoprefixer-cli -o main.prefixed.css main.css
+
+
+Stosowanie html-validate:
+npm install --save-dev html-validate
+html-validate FILENAME..

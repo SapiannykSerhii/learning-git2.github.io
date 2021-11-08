@@ -4,6 +4,7 @@ body {
 .container {
     text-align: center;
     background: cornsilk;
+    
 }
 .row {
     height: 80%;
@@ -11,4 +12,9 @@ body {
 }
 h3 {
     opacity: 0.7;
+}
+.by {
+    opacity: 0.7;
+    font-size: small;
+    padding-bottom: 20px;
 }
